@@ -1,4 +1,6 @@
 # Vrinda Store Annual Sales Report 2022
+![Sales Analysis Dashboard](https://github.com/jadvani1995/Vrinda-Store_excel--report/blob/5c892cb0f538e81eb55c086e5eb48aa879770101/DALL%C2%B7E%202024-09-09%2017.22.16%20-%20A%20clean%2C%20professional%20dashboard%20showcasing%20sales%20analysis%20for%20an%20online%20store.%20The%20dashboard%20includes%20a%20bar%20chart%20for%20sales%20performance%20over%20time%2C%20pie.webp)
+
 
 ## Objective/Business Problem 
 Vrinda Store aims to create an annual sales report for the year 2022 to gain insights into customer behavior. The goal is to understand customer patterns, improve sales strategies, and 
